@@ -6,6 +6,8 @@
 - It is difficult to compare the best strategy per product which seems to be the best trend to observe
 - It would be better to group the bars by product so that performance across different strategies can be more easily observed
 
+Alt design: A stacked bar chart showing product values for particular strategies
+
 ### Viz2 Critiques:
 
 - Visually the chart is very cluttered
@@ -14,9 +16,13 @@
 - Certain percentage values have boxes around them and the reason is not apparent, causing more confusion
 - The units are not present for the y-axis which completely obscures what is being measured
 
+Alt design: A stacked bar chart showing total sales of medications grouped by brand
+
 ### Viz3 Critiques:
 
 - Representation gives the impression of totalling 100% and doesn't acknowledge or display the overlap
 - Size of 'bar' doesn't reflect size of values
 - While the quotes add flavor to the image it isn't immediately apparent why they are there. They also skew the representation of the groups they describe (Baby Boomers could have worked in tech for 30 years and are being set equal to people who have a smartphone)
 - Use of too many fonts
+
+Alt design: A bar chart showing percentage of respondants grouped by term
